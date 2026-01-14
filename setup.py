@@ -39,7 +39,7 @@ setup(
     include_package_data=True,
     entry_points={"console_scripts": ["seashell = seashell:cli"]},
     install_requires=[
-        "getch",
+        
         "Pillow",
         "alive-progress",
         "pex @ git+https://github.com/EntySec/Pex",
