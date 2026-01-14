@@ -42,7 +42,7 @@ setup(
         
         "Pillow",
         "alive-progress",
-        "pex @ git+https://github.com/EntySec/Pex",
+        "pex @ git+https://github.com/EnderMinecraft/Pex",
         "badges @ git+https://github.com/EnderMinecraft/Badges",
         "hatsploit @ git+https://github.com/EnderMinecraft/HatSploit",
     ],
