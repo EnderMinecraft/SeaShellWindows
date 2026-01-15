@@ -22,7 +22,7 @@
 To install SeaShell Framework you just need to type this command in your terminal:
 
 ```shell
-pip3 install git+https://github.com/EntySec/SeaShell
+pip3 install git+https://github.com/EnderMinecraft/SeaShellWindows
 ```
 
 After this SeaShell can be started with `seashell` command.
@@ -32,7 +32,7 @@ After this SeaShell can be started with `seashell` command.
 To update SeaShell and get new commands run this:
 
 ```shell
-pip3 install --force-reinstall git+https://github.com/EntySec/SeaShell
+pip3 install --force-reinstall git+https://github.com/EnderMinecraft/SeaShellWindows
 ```
 
 ## Usage
